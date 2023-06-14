@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Gorra",
+    "description": "Es una gorra",
+    "price": 2500,
+    "thumbnail": "url imagen",
+    "code": 198,
+    "stock": 20,
+    "id": 2
+  },
+  {
+    "title": "Remera",
+    "description": "remera negra",
+    "price": 3000,
+    "thumbnail": "url imagen",
+    "code": 210,
+    "stock": 20,
+    "id": 3
+  },
+  {
+    "title": "Campera",
+    "description": "campera azul",
+    "price": 12000,
+    "thumbnail": "url imagen",
+    "code": 2022,
+    "stock": 17,
+    "id": 4
+  }
+]
